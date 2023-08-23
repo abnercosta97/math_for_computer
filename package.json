@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "recursive": "ts-node ./src/recursive_sequence"
+    "recursive": "ts-node ./src/recursive_sequence",
+    "iterative": "ts-node ./src/iterative_sequence"
   },
   "keywords": [],
   "author": "",

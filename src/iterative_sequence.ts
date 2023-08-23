@@ -1,4 +1,4 @@
-function sequence(n: number): number {
+function sequencee(n: number): number {
 
     let term: number = 1;
     let limit: number = 2;
@@ -6,4 +6,8 @@ function sequence(n: number): number {
         term = term * 2;
         limit = limit + 1;
     }
+    return term;
 }
+console.log(sequencee(10));
+
+// Ordem do termo na sequencia

@@ -5,4 +5,4 @@ function sequence(n: number): number {
     return 2 * sequence(n - 1);
   }
 }
-console.log(sequence(4));
+console.log(sequence(10));
