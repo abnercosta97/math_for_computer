@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "recursive": "ts-node ./src/recursive_sequence",
-    "iterative": "ts-node ./src/iterative_sequence"
+    "iterative": "ts-node ./src/iterative_sequence",
+    "usage": "ts-node ./src/class_models_usage"
   },
   "keywords": [],
   "author": "",
