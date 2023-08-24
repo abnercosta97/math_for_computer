@@ -1,0 +1,21 @@
+EXERCÍCIOS RESOLVIDOS
+2.1.R. Defina, utilizando enumeração, os números
+naturais ímpares. Nesse caso é possível enumerar
+todos esses números?
+2.1.R. Resolução:
+Números ímpares ≝ 1, 3, 5, 7, ...
+Note-se que trata-se de um conjunto enumerável mas
+cuja quantidade de elementos é infinita. 
+// Infinito e enumerado
+
+2.2.R. Defina, utilizando recursão, os membros de uma
+família de pessoas que começou com um homem e
+uma mulher denominados de Adão e Eva.
+2.2.R. Resolução:
+Primeiros membros da família ≝ Adão e Eva (1)
+Se uma pessoa é da família de Adão e Eva (geração k), então os
+filhos dessa pessoa (geração k+1) também são da família de
+Adão e Eva. (2)
+Para ser da família de Adão e Eva, então as condições (1) e (2)
+devem ser satisfeitas simultaneamente.
+
